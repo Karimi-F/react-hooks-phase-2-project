@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+
+.about h1{
+    padding: 30px 15px;
+}
+
+.about h2{
+    padding: 15px 20px;
+}
+
+.about ol{
+    line-height: 25px;
+}
+
+.about p{
+    display: flex;
+    line-height: 25px;
+}
